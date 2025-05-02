@@ -8,7 +8,6 @@ const store = {
     houseNumber: "1",
   },
 };
-store.clients = {};
 
 store.clients = {
   firstClient: {
